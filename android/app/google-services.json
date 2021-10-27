@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860999205387",
+    "project_id": "webinerd-c568f",
+    "storage_bucket": "webinerd-c568f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860999205387:android:0df05eea29ddfc12127d0e",
+        "android_client_info": {
+          "package_name": "com.example.webinerd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860999205387-usqvvbsb1cfu6d6ge1umiiq6b55k94rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webinerd",
+            "certificate_hash": "80abc03081d5dfb1c4859060b9e125333000010a"
+          }
+        },
+        {
+          "client_id": "860999205387-3q9ivumdnud0ci1hlopbm0ii2hr2s849.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbt9q5aW8ZLaIfgZb78TSXC-K3ctDelOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860999205387-3q9ivumdnud0ci1hlopbm0ii2hr2s849.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
